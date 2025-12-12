@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 200px;
+  pointer-events: none;
+}
+
+.App-main {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(40px + 2vmin);
+  color: white;
+}
+
+.small {
+  font-size: 0.75rem;
+}
+
+.BtnMenu {
+  background-color: aliceblue;
+  color: black;
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.Sign-in {
+  width: 50%;
+  display: inline-block;
+}
+
+.Log-in {
+  width: 50%;
+  display: inline-block;
+}
